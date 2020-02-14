@@ -1,7 +1,7 @@
 # Highspeed_DataAnalysis_R
 Predicting survival rates based on the use of airbags and seat belts in high-speed car accidents dataset
 High-speed traffic accidents: can we predict survival rates based on the use of airbags and seat belts?
-
+Done by: Kevin Hofman,Husam Alsalek & Osama Soumakie
 Introduction
 
 Every year, traffic accidents cause around 1.35 million deaths worldwide (World Health Organisation, 2018). Risk factors for traffic injury or death include speeding, driving under the influence of alcohol or drugs, unsafe roads, distracted driving, etc. Additionally, the World Health Organisation mentioned that traffic accidents cause economic losses, which result from for example decreased productivity caused by disability or death and the cost of treating injuries. The above has made traffic accidents a complex problem concerning governments, car manufacturers, and people in general. 
